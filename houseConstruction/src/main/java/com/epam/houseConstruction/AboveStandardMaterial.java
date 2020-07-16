@@ -9,7 +9,7 @@ public class AboveStandardMaterial {
 	}
 
 	public double calculate() {
-		return area*1800;
+		return area*1500;
 	}
 	
 }
