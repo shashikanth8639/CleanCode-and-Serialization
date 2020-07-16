@@ -9,7 +9,7 @@ public class HighStandardMaterial {
 	}
 
 	public double calculate() {
-		return area*1500;
+		return area*1800;
 	}
 	
 }
